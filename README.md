@@ -3,9 +3,7 @@
 <img src="./assets/banner.svg" alt="Paulo Henrique, Desenvolvedor de Software" width="100%"/>
 
 <p>
-  <!-- Descomente e troque pelo link do seu LinkedIn:
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0B1630?style=flat-square&logo=linkedin&logoColor=2F8BFF" alt="LinkedIn"/></a>
-  -->
+  <a href="https://www.linkedin.com/in/paulohenriqueromeiro/"><img src="https://img.shields.io/badge/LinkedIn-0B1630?style=flat-square&logo=linkedin&logoColor=2F8BFF" alt="LinkedIn"/></a>
   <a href="mailto:phromeiro7@gmail.com"><img src="https://img.shields.io/badge/Email-0B1630?style=flat-square&logo=gmail&logoColor=FF2E88" alt="Email"/></a>
 </p>
 
