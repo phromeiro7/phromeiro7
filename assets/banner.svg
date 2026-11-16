@@ -29,7 +29,7 @@
     <text x="744" y="112"><tspan fill="#FF2E88">const</tspan><tspan fill="#5FD4FF"> dev</tspan><tspan fill="#6F8BB8"> = {</tspan></text>
     <text x="762" y="136"><tspan fill="#2F8BFF">name</tspan><tspan fill="#6F8BB8">: </tspan><tspan fill="#E8F3FF">"Paulo Henrique"</tspan><tspan fill="#6F8BB8">,</tspan></text>
     <text x="762" y="160"><tspan fill="#2F8BFF">role</tspan><tspan fill="#6F8BB8">: </tspan><tspan fill="#E8F3FF">"Software Developer"</tspan><tspan fill="#6F8BB8">,</tspan></text>
-    <text x="762" y="184"><tspan fill="#2F8BFF">focus</tspan><tspan fill="#6F8BB8">: [</tspan><tspan fill="#E8F3FF">"APIs"</tspan><tspan fill="#6F8BB8">, </tspan><tspan fill="#E8F3FF">"Web"</tspan><tspan fill="#6F8BB8">, </tspan><tspan fill="#E8F3FF">"Dados"</tspan><tspan fill="#6F8BB8">],</tspan></text>
+    <text x="762" y="184"><tspan fill="#2F8BFF">focus</tspan><tspan fill="#6F8BB8">: [</tspan><tspan fill="#E8F3FF">"APIs"</tspan><tspan fill="#6F8BB8">, </tspan><tspan fill="#E8F3FF">"Front-end"</tspan><tspan fill="#6F8BB8">, </tspan><tspan fill="#E8F3FF">"Dados"</tspan><tspan fill="#6F8BB8">],</tspan></text>
     <text x="762" y="208"><tspan fill="#2F8BFF">curioso</tspan><tspan fill="#6F8BB8">: </tspan><tspan fill="#FF2E88">true</tspan><tspan fill="#6F8BB8">,</tspan></text>
     <text x="744" y="232"><tspan fill="#6F8BB8">};</tspan></text>
   </g>
