@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060D1F"/>
+      <stop offset="1" stop-color="#0B1630"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2F8BFF"/>
+      <stop offset="0.6" stop-color="#5FD4FF"/>
+      <stop offset="1" stop-color="#FF2E88"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1E3A6E" stroke-width="1" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#9FB8DE">
+    <rect x="830" y="70" width="110" height="44" rx="8" fill="#0B1630" stroke="#2F8BFF"/>
+    <text x="885" y="97" text-anchor="middle">API</text>
+    <rect x="830" y="128" width="110" height="44" rx="8" fill="#0B1630" stroke="#5FD4FF"/>
+    <text x="885" y="155" text-anchor="middle">queue</text>
+    <rect x="830" y="186" width="110" height="44" rx="8" fill="#0B1630" stroke="#FF2E88"/>
+    <text x="885" y="213" text-anchor="middle">worker</text>
+    <path d="M885 114V128M885 172V186" stroke="#6F8BB8" stroke-width="2"/>
+    <rect x="980" y="128" width="150" height="44" rx="8" fill="#0B1630" stroke="#1E3A6E" stroke-dasharray="5 4"/>
+    <text x="1055" y="155" text-anchor="middle">DLQ</text>
+    <path d="M940 150H980" stroke="#6F8BB8" stroke-width="2" stroke-dasharray="4 4"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="70" y="92" font-size="18" fill="#5FD4FF">~/paulo-henrique $</text>
+    <text x="70" y="150" font-size="48" font-weight="700" fill="#E8F3FF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">Paulo Henrique</text>
+    <rect x="70" y="168" width="280" height="4" rx="2" fill="url(#accent)"/>
+    <text x="70" y="208" font-size="22" fill="#9FB8DE">Desenvolvedor Back-end Jr</text>
+    <text x="70" y="242" font-size="16" fill="#6F8BB8">Node.js · TypeScript · APIs REST · Filas &amp; Eventos</text>
+  </g>
+</svg>
