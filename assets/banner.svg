@@ -17,24 +17,29 @@
   <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
   <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#9FB8DE">
-    <rect x="830" y="70" width="110" height="44" rx="8" fill="#0B1630" stroke="#2F8BFF"/>
-    <text x="885" y="97" text-anchor="middle">API</text>
-    <rect x="830" y="128" width="110" height="44" rx="8" fill="#0B1630" stroke="#5FD4FF"/>
-    <text x="885" y="155" text-anchor="middle">queue</text>
-    <rect x="830" y="186" width="110" height="44" rx="8" fill="#0B1630" stroke="#FF2E88"/>
-    <text x="885" y="213" text-anchor="middle">worker</text>
-    <path d="M885 114V128M885 172V186" stroke="#6F8BB8" stroke-width="2"/>
-    <rect x="980" y="128" width="150" height="44" rx="8" fill="#0B1630" stroke="#1E3A6E" stroke-dasharray="5 4"/>
-    <text x="1055" y="155" text-anchor="middle">DLQ</text>
-    <path d="M940 150H980" stroke="#6F8BB8" stroke-width="2" stroke-dasharray="4 4"/>
+  <!-- Janela de editor -->
+  <rect x="720" y="48" width="410" height="204" rx="12" fill="#0B1630" stroke="#1E3A6E"/>
+  <path d="M720 60a12 12 0 0 1 12-12H1118a12 12 0 0 1 12 12V80H720Z" fill="#102044"/>
+  <circle cx="744" cy="64" r="5" fill="#FF2E88"/>
+  <circle cx="762" cy="64" r="5" fill="#5FD4FF"/>
+  <circle cx="780" cy="64" r="5" fill="#2F8BFF"/>
+  <text x="925" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#6F8BB8" text-anchor="middle">dev.ts</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" xml:space="preserve">
+    <text x="744" y="112"><tspan fill="#FF2E88">const</tspan><tspan fill="#5FD4FF"> dev</tspan><tspan fill="#6F8BB8"> = {</tspan></text>
+    <text x="762" y="136"><tspan fill="#2F8BFF">name</tspan><tspan fill="#6F8BB8">: </tspan><tspan fill="#E8F3FF">"Paulo Henrique"</tspan><tspan fill="#6F8BB8">,</tspan></text>
+    <text x="762" y="160"><tspan fill="#2F8BFF">role</tspan><tspan fill="#6F8BB8">: </tspan><tspan fill="#E8F3FF">"Software Developer"</tspan><tspan fill="#6F8BB8">,</tspan></text>
+    <text x="762" y="184"><tspan fill="#2F8BFF">focus</tspan><tspan fill="#6F8BB8">: [</tspan><tspan fill="#E8F3FF">"APIs"</tspan><tspan fill="#6F8BB8">, </tspan><tspan fill="#E8F3FF">"Web"</tspan><tspan fill="#6F8BB8">, </tspan><tspan fill="#E8F3FF">"Dados"</tspan><tspan fill="#6F8BB8">],</tspan></text>
+    <text x="762" y="208"><tspan fill="#2F8BFF">curioso</tspan><tspan fill="#6F8BB8">: </tspan><tspan fill="#FF2E88">true</tspan><tspan fill="#6F8BB8">,</tspan></text>
+    <text x="744" y="232"><tspan fill="#6F8BB8">};</tspan></text>
   </g>
+  <rect x="765" y="219" width="8" height="16" fill="#5FD4FF" opacity="0.85"/>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
     <text x="70" y="92" font-size="18" fill="#5FD4FF">~/paulo-henrique $</text>
     <text x="70" y="150" font-size="48" font-weight="700" fill="#E8F3FF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">Paulo Henrique</text>
     <rect x="70" y="168" width="280" height="4" rx="2" fill="url(#accent)"/>
     <text x="70" y="208" font-size="22" fill="#9FB8DE">Desenvolvedor de Software</text>
-    <text x="70" y="242" font-size="16" fill="#6F8BB8">Node.js · TypeScript · APIs REST · Filas &amp; Eventos</text>
+    <text x="70" y="242" font-size="16" fill="#6F8BB8">Node.js · TypeScript · React · Next.js</text>
   </g>
 </svg>
