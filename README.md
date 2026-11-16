@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Paulo Henrique, Desenvolvedor Back-end Jr" width="100%"/>
+<img src="./assets/banner.svg" alt="Paulo Henrique, Desenvolvedor de Software" width="100%"/>
 
 <p>
   <!-- Descomente e troque pelo link do seu LinkedIn:
@@ -13,7 +13,7 @@
 
 #### Sobre
 
-Desenvolvedor back-end júnior (Node.js e TypeScript) no time de plataforma da [Klubi](https://klubi.com.br). Construo APIs, integrações e processamento assíncrono para uma ferramenta de atendimento omnichannel (WhatsApp Business API, RCS, SMS e Instagram Direct) usada todos os dias por times de atendimento e vendas. No front, uso React e Next.js.
+Desenvolvedor de software no time de plataforma da [Klubi](https://klubi.com.br), trabalhando com Node.js e TypeScript. Construo APIs, integrações e processamento assíncrono para uma ferramenta de atendimento omnichannel (WhatsApp Business API, RCS, SMS e Instagram Direct) usada todos os dias por times de atendimento e vendas. No front, uso React e Next.js.
 
 Vim de uma carreira fora de TI e entrei em tecnologia por helpdesk e QA. Por isso, investigo a causa raiz antes de corrigir e valido o comportamento em produção.
 
@@ -49,6 +49,6 @@ Cursando Análise e Desenvolvimento de Sistemas na UNIP.
 
 #### Trajetória
 
-- Analista de Sustentação e Qualidade Jr. (atuação como Desenvolvedor, time de Plataforma), Klubi, 2026 até hoje
+- Desenvolvedor, time de Plataforma, Klubi, 2026 até hoje
 - Estagiário de Helpdesk, Klubi, 2025 a 2026
 - Análise e Desenvolvimento de Sistemas, UNIP, em andamento

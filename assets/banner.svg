@@ -34,7 +34,7 @@
     <text x="70" y="92" font-size="18" fill="#5FD4FF">~/paulo-henrique $</text>
     <text x="70" y="150" font-size="48" font-weight="700" fill="#E8F3FF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">Paulo Henrique</text>
     <rect x="70" y="168" width="280" height="4" rx="2" fill="url(#accent)"/>
-    <text x="70" y="208" font-size="22" fill="#9FB8DE">Desenvolvedor Back-end Jr</text>
+    <text x="70" y="208" font-size="22" fill="#9FB8DE">Desenvolvedor de Software</text>
     <text x="70" y="242" font-size="16" fill="#6F8BB8">Node.js · TypeScript · APIs REST · Filas &amp; Eventos</text>
   </g>
 </svg>
